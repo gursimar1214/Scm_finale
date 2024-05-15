@@ -1,6 +1,7 @@
-# Scm_finale
-README for Interactive Quiz Project
+#Interactive Quiz Project
+
 Welcome to the Interactive Quiz Project! This README file provides essential information for setting up and using the project effectively.
+
 Project Overview:
 The Interactive Quiz Project is a web-based application designed to engage users in a fun and educational quiz experience. Users can test their knowledge on various topics by answering multiple-choice questions.
 Features:
