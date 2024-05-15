@@ -1,4 +1,4 @@
-#Interactive Quiz Project
+Interactive Quiz Project
 
 Welcome to the Interactive Quiz Project! This README file provides essential information for setting up and using the project effectively.
 
@@ -34,3 +34,17 @@ Usage:
 3)Receive instant feedback on each answer.
 
 4)View your total score at the end of the quiz.
+
+Technologies Used:
+
+1)HTML5
+
+2)CSS3
+
+3)JavaScript
+
+Credits:
+
+This project was developed by Tohit,Gursimar and Harbir. Feel free to reach out for any questions or feedback.
+
+
