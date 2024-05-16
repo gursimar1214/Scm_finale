@@ -31,6 +31,6 @@ HTML5
 CSS3
 JavaScript
 ### Credits
-This project was developed by [Your Name]. Special thanks to [Contributor Name] for their valuable contributions.
+This project was developed by Tohit, Gursimar and Harbir. 
 
 Thank you for using the Interactive Quiz Project! Enjoy testing your knowledge and have fun!
